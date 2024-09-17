@@ -11,6 +11,7 @@ data:
       - expense-pod-reader
       userarn: arn:aws:iam::891377282790:user/harish
       username: harish
+kind: ConfigMap
 metadata:
   creationTimestamp: "2024-09-17T08:55:34Z"
   name: aws-auth
